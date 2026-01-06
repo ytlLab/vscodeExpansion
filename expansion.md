@@ -17,7 +17,7 @@
 ## Office Viewer
 
 ##修改Markdown文字顏色
-
+(需切換原生的Markdown介面才可操作)
 在 VS Code 中，點擊左下角的 齒輪圖示 ⚙️。
 1.選擇 「使用者程式碼片段」(User Snippets)。
 2.在上方出現的搜尋框中輸入 markdown，然後點擊搜尋到的 markdown (Markdown) 檔案。這會開啟一個 markdown.json 檔案。
